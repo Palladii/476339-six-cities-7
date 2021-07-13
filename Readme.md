@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Oksana Palladii](https://up.htmlacademy.ru/react/7/user/476339).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Вахрушев] (https://htmlacademy.ru/profile/id65417).
 
 ---
 
